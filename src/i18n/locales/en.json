@@ -1,0 +1,52 @@
+{
+  "namecompany": "starsflux",
+  "auth": {
+    "name": {
+      "title": "Name",
+      "hint": "Jhon"
+    },
+    "surname": {
+      "title": "Surname",
+      "hint": "Jones"
+    },
+    "nickname": {
+      "title": "Nickname",
+      "hint": "jhon23"
+    },
+    "gender": {
+      "title": "Select your gender",
+      "male": "Male",
+      "female": "Female"
+    },
+    "email": {
+      "title": "Email",
+      "hint": "example@gmail.com"
+    },
+    "phone": {
+      "title": "Phone number",
+      "hint": "+1(999)-999-99-99"
+    },
+    "reset": {
+      "title": "Recover the password",
+      "input": "Email",
+      "button": "Restore"
+    }
+  },
+  "header": {
+    "logo": "ScribbleHub"
+  },
+  "navbar": {
+    "link1": "Account",
+    "link2": "Friends",
+    "link3": "Subscribers",
+    "link4": "",
+    "link5": "Settings"
+  },
+  "errorpage": {
+    "title": "Error 404",
+    "text": "Page not found"
+  },
+  "footer": {
+    "text": "Все права защищены©Scribble Hub 2025"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "namecompany": "starsflux",
+  "auth": {
+    "name": {
+      "title": "Имя",
+      "hint": "Стас"
+    },
+    "surname": {
+      "title": "Фамилия",
+      "hint": "Скоробейкин"
+    },
+    "nickname": {
+      "title": "Никнейм",
+      "hint": "stas23"
+    },
+    "gender": {
+      "title": "Выберите ваш пол",
+      "male": "Мужской",
+      "female": "Женский"
+    },
+    "email": {
+      "title": "Email",
+      "hint": "example@gmail.com"
+    },
+    "phone": {
+      "title": "Номер телефона",
+      "hint": "+1(999)-999-99-99"
+    },
+    "reset": {
+      "title": "Востановить пароль",
+      "input": "Email",
+      "button": "Востановить"
+    }
+  },
+  "header": {
+    "logo": "ScribbleHub"
+  },
+  "navbar": {
+    "link1": "Аккаунт",
+    "link2": "Друзья",
+    "link3": "Подписчики",
+    "link4": "Поиск",
+    "link6": "Настройки"
+  },
+  "errorpage": {
+    "title": "Ошибка 404",
+    "text": "Страница не найдена"
+  },
+  "footer": {
+    "text": "All rights reserved©Scribble Hub 2025"
+  }
+}

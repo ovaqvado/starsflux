@@ -1,0 +1,11 @@
+@use "@/assets/colors/style.scss" as *;
+
+.box {
+    background-color: $navbar-bg-dark;
+    min-height: 100vh;
+    max-width: 266px;
+    width: 100%;
+}
+
+@media (min-width: 968px) {
+}
